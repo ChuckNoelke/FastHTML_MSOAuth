@@ -1,0 +1,1 @@
+Sitemap: https://ChuckNoelke.github.io/FastHTML_MSOAuth/sitemap.xml

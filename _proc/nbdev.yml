@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "FastHTML_MSOAuth"
+  site-url: "https://ChuckNoelke.github.io/FastHTML_MSOAuth"
+  description: "Implementation of Oauth2.0 for AzureAD/EntraID in FastHTML"
+  repo-branch: main
+  repo-url: "https://github.com/ChuckNoelke/FastHTML_MSOAuth"
